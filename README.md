@@ -89,6 +89,12 @@ For any questions, suggestions, or collaboration opportunities, feel free to rea
 
 We would love to hear your thoughts and work together on refining this analysis!. We would love to hear your thoughts and work together on refining this analysis!
 
+## License
+
+This project is licensed under the [MIT License](./LICENSE).  
+For more details, click the link to view the full text of the license.
+
+
 ## ⭐ Show Your Support
 
 If this project helps you, show some love by giving it a star! ⭐
