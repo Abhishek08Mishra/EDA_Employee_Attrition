@@ -43,9 +43,8 @@ This project aims to analyze employee attrition and identify key organizational 
 - **Programming Language:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn)
 - **Tools:** Jupyter Notebook
 
-## 📜 Acknowledgments
-- Data sourced from [Kaggle/HR Analytics Datasets](https://www.kaggle.com/).
-- Inspired by real-world HR analytics problems.
+
+# Inspired by real-world HR analytics problems.
 
 ## 🤝 Contributing
 We welcome contributions to enhance this project! Follow these steps to contribute:
