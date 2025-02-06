@@ -53,7 +53,7 @@ We welcome contributions to enhance this project! Follow these steps to contribu
 1. **Fork the Repository**: Click the 'Fork' button at the top right corner of the repository page to create a copy under your GitHub account.
 2. **Clone the Repository**: Use the command below to clone the repository to your local system:
    ```bash
-   git clone https://github.com/Abhishek08Mishra/repository-name.git
+   git clone https://github.com/Abhishek08Mishra/EDA_Employee_Attrition.git
    ```
 3. **Create a New Branch**: Before making any changes, create a new branch:
    ```bash
